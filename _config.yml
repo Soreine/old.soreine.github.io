@@ -2,8 +2,8 @@
 title: Soreine
 email: hello@soreine.dev
 description: "Soreine's personal website" # > this means to ignore newlines until "baseurl:"
-baseurl: "/old.soreine.github.io/" # the subpath of your site, e.g. /blog/
-url: "http://soreine.dev" # the base hostname & protocol for your site
+baseurl: "/old.soreine.github.io" # the subpath of your site, e.g. /blog/
+url: "soreine.dev" # the base hostname & protocol for your site
 # disqus_short_name: soreine-github-io
 enable_disqus: false
 github_username: Soreine
